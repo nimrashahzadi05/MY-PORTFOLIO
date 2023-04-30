@@ -10,7 +10,7 @@ const Footer = () => {
           </p>
           <div className="social_icons">
             <a
-              href="https://twitter.com/olawanle_joel"
+              href=""
               aria-label="Twitter"
               target="_blank"
               rel="noopener noreferrer"

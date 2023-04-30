@@ -116,8 +116,8 @@ body {
   font-family: sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  background-color: #1D1E20;
-  color: #DADADB;
+  background-color: #b6bbc4;
+  color: #01011c;
   width: 900px;
   margin: 0 auto;
   padding: 0 0;
@@ -132,7 +132,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #DADADB;
+  color: #01010e;
 }
 
 li {
@@ -145,17 +145,17 @@ li {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 0;
-  background-color: #1D1E20;
+  background-color:#b6bbc4 ;
 }
 
 .nav-container .logo {
-  font-size: 1.5rem;
+  font-size: 3rem;
   font-weight: bold;
 }
 
 .cta-btn {
-  background-color: #FFCC1A;
-  color: #1D1E20;
+  background-color:  #060600;
+  color: #f1f1f2;
   padding: 0.5rem 1rem;
   border-radius: 5px;
   font-size: 1rem;
@@ -189,12 +189,12 @@ hr {
   justify-content: space-around;
   align-items: center;
   padding: 2rem 0;
-  background-color: #1D1E20;
+  background-color: #b6bbc4 ;
 }
 
 .footer-container p {
   font-size: 0.8rem;
-  color: #9B9C9D;
+  color: #000305;
 }
 
 .footer-container .social_icons {
@@ -205,7 +205,7 @@ hr {
 }
 
 .footer-container .social_icons a {
-  color: #9B9C9D;
+  color: #010408;
   font-size: 1.5rem;
   transition: all 0.5s ease-in-out;
 }
@@ -265,7 +265,7 @@ hr {
 }
 
 .hero-container .social-icons a {
-  color: #9B9C9D;
+  color: #01060b;
   font-size: 1.5rem;
   transition: all 0.5s ease-in-out;
 }
@@ -312,7 +312,7 @@ hr {
   height: 500px;
   object-fit: cover;
   border: 2px solid #DADADB;
-  filter: grayscale(100%);
+  filter: grayscale(0%);
   transition: all 0.5s ease-in-out;
   cursor: cell;
 }
@@ -439,7 +439,7 @@ hr {
 
 .project-card .folder-icon {
   font-size: 35px;
-  color: #FFCC17;
+  color: #f5f4f1;
 }
 
 .project-header .small-icons {

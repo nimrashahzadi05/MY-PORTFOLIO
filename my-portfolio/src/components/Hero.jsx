@@ -12,7 +12,7 @@ const Hero = () => {
         </p>
         <div className="social-icons">
           <a
-            href="https://twitter.com/olawanle_joel"
+            href=""
             aria-label="Twitter"
             target="_blank"
             rel="noopener noreferrer"
